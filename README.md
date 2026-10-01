@@ -49,4 +49,4 @@ python app.py
 - **Leo** · Fundador y CEO
 
 ## 📬 Contacto
-tu@correo.com
+leoaceves27@gmail.com
